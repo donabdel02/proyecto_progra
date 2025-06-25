@@ -217,7 +217,7 @@ int main() {
                 cout << "Gracias por jugar, hermanito!\n";
                 break;
             default:
-                cout << "Opción inválida.\n";
+                cout << "Opcion Invalida\n";
         }
 
     } while (opcion != 3);
